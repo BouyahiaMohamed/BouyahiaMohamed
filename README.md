@@ -12,5 +12,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=BouyahiaMohamed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BouyahiaMohamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Intelligence is the ability to avoid doing work, yet getting the work done.
+"Intelligence is the ability to avoid doing work, yet getting the work done."
 -Linus Torvalds
