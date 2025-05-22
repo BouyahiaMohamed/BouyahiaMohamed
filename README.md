@@ -2,7 +2,7 @@
 🔭 Je suis étudiant en informatique en BUT à Paris - Rives de Seine
 
 
-## 🌐 Contacte:
+## 🌐 Contact:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.bouyahia2006@gmail.com) 
 
 # 💻 Connaissances:
